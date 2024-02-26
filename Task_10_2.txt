@@ -1,0 +1,14 @@
+Errors :
+
+   * Errors primarily arise due to the lack of system resources.
+   * Recovery from an error is typically not possible.
+   * All errors in Java are unchecked.
+   * The system executing the program is responsible for errors.
+   * Errors are defined in the java.lang.Error package.
+
+Exceptions :
+   * Exceptions may occur during both runtime and compile time.
+   * Recovery from an exception is possible.
+   * Exceptions in Java can be either checked or unchecked.
+   * The program's code is responsible for exceptions.
+   * Exceptions are defined in the java.lang.Exception package.

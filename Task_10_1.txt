@@ -1,0 +1,6 @@
+Four Access Modifiers:
+
+    * public -is accessible for all the classes
+    * private - is only accessible within the class
+    * default - is accessible only in the same package
+    * protected - is accessible in the same package and to its subclasses
